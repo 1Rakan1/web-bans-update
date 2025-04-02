@@ -1,4 +1,4 @@
-/* صفحة تسجيل الدخول */
+
 .login-body {
   display: flex;
   justify-content: center;
@@ -107,7 +107,7 @@
   background: linear-gradient(135deg, #e91e63, #d81b60);
 }
 
-/* القائمة الجانبية */
+
 .sidebar {
   position: fixed;
   top: 0;
@@ -230,7 +230,7 @@ body.dark-mode .mode-btn:hover {
   background: linear-gradient(135deg, #fdd835, #f9a825);
 }
 
-/* محتوى الصفحة */
+
 .content-box {
   background: rgba(255, 255, 255, 0.1);
   padding: 30px;
